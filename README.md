@@ -13,3 +13,7 @@ Buttons CSS - https://css3buttongenerator.com/
 Frontend Mentor - https://www.frontendmentor.io/
 
 Bootstrap - https://getbootstrap.com/
+Trending sites - https://www.awwwards.com/
+UI Designs - http://ui-patterns.com/
+Website Designs - https://dribbble.com/shots/popular/web-design
+Wireframe - https://balsamiq.com/

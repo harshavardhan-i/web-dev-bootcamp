@@ -121,3 +121,35 @@ p {
 .pricing-column {
     padding: 3% 2%;
 }
+
+/* Call to action section */
+#cta {
+    background-color: #FF4C68;
+    color: #fff;
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.cta-heading{
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 3rem;
+}
+
+/* footer section */
+
+#footer {
+    padding: 7% 15%;
+    text-align: center;
+}
+
+@media (max-width: 1028px) {
+   #title {
+       text-align: center;
+   }
+   
+    .title-image{
+        width: 60%;
+        position: static;
+        transform: rotate(0);
+    }
+}

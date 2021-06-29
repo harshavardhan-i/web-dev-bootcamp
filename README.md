@@ -1,5 +1,7 @@
 # web-dev-bootcamp
-Attempt to complete the entire course and retain knowledge gained.
+
+Folders: 
+books, bootstrap, dice, drum-kit
 
 Sites used:
 Favicon - https://www.favicon.cc/

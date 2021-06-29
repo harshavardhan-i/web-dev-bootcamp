@@ -1,7 +1,7 @@
 # web-dev-bootcamp
 
 Folders: 
-books, bootstrap, dice, drum-kit
+books, webpage, bootstrap, dice, drum-kit, simon-game
 
 Sites used:
 Favicon - https://www.favicon.cc/

@@ -1,0 +1,37 @@
+• Kernel: Code that interacts with the hardware.
+• Shell: Refers to the User interface to Kernel.
+
+• Two variants to shell:
+•     GUI - Graphical user interface
+•     CLI - Command Line interface
+
+• BASH - Bourne Again Shell, CLI for UNIX systems.
+• Linux - UNIX based/like system.
+
+• Directory Navigation:
+	○ cd <path>: change directory
+		§  cd .. - takes back a folder
+	○ ls: displays list of directory
+	○ mkdir <dirName>: make directory, creates new directory
+	○ touch <fileName>: creates new files not directory
+	○ open <fileName>: opens a file  
+		§ open -a <applicationName> <fileName> - opens in specified app
+	○ rmdir <dirName>: deletes directory
+	○ rm <fileName>: deletes file, 
+		§  rm * - deletes everything
+	○ pwd: present working directory
+	○ mv: move files from one path to another
+	○ who : gives all users logged into system
+	○ cp: copy form one path to another
+	○ chmod: change mode command, many modes in unix for file manipulation. Three basic ones are - 
+		§ a. +w stands for write and changes file permission to write
+		§ b. +r stands for read and changes file permission to read
+		§ c. +x used to make file executable
+	○ cal: displays calendar on your screen
+	○ file: displays the type of file. Linux treats everything as a file.
+	○ sort: sorts the content of the file according to ASCII rules
+	○ grep: globally search for regular expression and print, searches the specified input for  a match with the supplied pattern
+	○ man: manual. Print built manual for most commands
+	○ lpr: send a file to the printer for printing
+	○ password: simply changes password of the user
+	○ clear: clears the terminal so you type more accurately

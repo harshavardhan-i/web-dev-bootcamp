@@ -24,4 +24,6 @@ Button Icons - https://fontawesome.com/v5.15/icons
 Code least - https://codegolf.stackexchange.com/
 UI Design - https://www.canva.com/
 
-Mailchimp - 
+Mailchimp - https://mailchimp.com/
+
+Heroku - https://www.heroku.com/

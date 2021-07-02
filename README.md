@@ -22,5 +22,6 @@ Wireframe - https://balsamiq.com/
 Button Icons - https://fontawesome.com/v5.15/icons
 
 Code least - https://codegolf.stackexchange.com/
-
 UI Design - https://www.canva.com/
+
+Mailchimp - 

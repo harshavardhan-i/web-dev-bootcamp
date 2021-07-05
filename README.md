@@ -25,3 +25,7 @@
  * UI Design - https://www.canva.com/
  * Mailchimp - https://mailchimp.com/
  * Heroku - https://www.heroku.com/
+
+## API:
+  * Kanye rest - https://api.kanye.rest/
+  * Jokes - https://sv443.net/jokeapi/v2/

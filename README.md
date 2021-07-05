@@ -1,13 +1,11 @@
-# web-dev-bootcamp
-
-### Paths: 
+## Paths: 
 - [webpage](https://harshavardhan-i.github.io/web-dev-bootcamp/webpage/) 
 - [bootstrap](https://harshavardhan-i.github.io/web-dev-bootcamp/bootstrap/) 
 - [dice](https://harshavardhan-i.github.io/web-dev-bootcamp/dice/)
 - [drum-kit](https://harshavardhan-i.github.io/web-dev-bootcamp/drum-kit/)
 - [simon-game](https://harshavardhan-i.github.io/web-dev-bootcamp/simon-game/)
 
-### Sites used:
+## Sites used:
  * Favicon - https://www.favicon.cc/
  * Colors - https://colorhunt.co/
  * Fonts - https://www.w3schools.com/cssref/css_websafe_fonts.asp
